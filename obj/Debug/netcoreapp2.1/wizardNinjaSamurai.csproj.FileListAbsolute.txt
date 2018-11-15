@@ -1,0 +1,11 @@
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\obj\Debug\netcoreapp2.1\wizardNinjaSamurai.csprojAssemblyReference.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\obj\Debug\netcoreapp2.1\wizardNinjaSamurai.csproj.CoreCompileInputs.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\obj\Debug\netcoreapp2.1\wizardNinjaSamurai.AssemblyInfoInputs.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\obj\Debug\netcoreapp2.1\wizardNinjaSamurai.AssemblyInfo.cs
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\bin\Debug\netcoreapp2.1\wizardNinjaSamurai.deps.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\bin\Debug\netcoreapp2.1\wizardNinjaSamurai.runtimeconfig.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\bin\Debug\netcoreapp2.1\wizardNinjaSamurai.runtimeconfig.dev.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\bin\Debug\netcoreapp2.1\wizardNinjaSamurai.dll
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\bin\Debug\netcoreapp2.1\wizardNinjaSamurai.pdb
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\obj\Debug\netcoreapp2.1\wizardNinjaSamurai.dll
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\wizardNinjaSamurai\wizardNinjaSamurai\obj\Debug\netcoreapp2.1\wizardNinjaSamurai.pdb
